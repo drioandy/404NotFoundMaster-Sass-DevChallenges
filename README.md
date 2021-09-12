@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://tatranan.github.io/404NotFoundMaster-Sass-DevChallenges/)
-- GitHub [@your-username](https://{github.com/tatranan})
+- Website [404 Not Found - Dev Challenge](https://tatranan.github.io/404NotFoundMaster-Sass-DevChallenges/)
+- GitHub [tatranan](https://{github.com/tatranan})
